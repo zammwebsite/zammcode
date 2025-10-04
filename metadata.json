@@ -1,0 +1,7 @@
+{
+  "name": "Sehatin – Pemeriksa Kesehatan Pintar",
+  "description": "A smart health checker app that uses your device's camera to provide basic health assessments. Get a daily health score, track your history, and receive personalized wellness tips.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
